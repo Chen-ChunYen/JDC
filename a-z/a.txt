@@ -1,0 +1,3 @@
+apple 蘋果
+ant testing
+all 全部

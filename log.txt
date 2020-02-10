@@ -1,0 +1,10 @@
+JDS
+Jack's Dictionary System
+This is only for searching vocabulary.
+
+====================
+V0.0.0
+2020/02/10
+First created. Modify function could be improved.
+
+====================

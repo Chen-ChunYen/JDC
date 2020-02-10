@@ -1,0 +1,2 @@
+total 全部
+test 考試
