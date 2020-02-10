@@ -1,2 +1,2 @@
-# JDC
+# JDS
 Jack's Dictionary System
