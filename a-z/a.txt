@@ -1,3 +1,1 @@
-apple 蘋果
-ant testing
-all 全部
+apple 16 蘋果 I have an apple.

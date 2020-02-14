@@ -8,3 +8,11 @@ V0.0.0
 First created. Modify function could be improved.
 
 ====================
+V0.1.0
+2020/02/11
+Change the example storage method.
+
+====================
+V1.0.0
+2020/02/14
+New GUI interface.
